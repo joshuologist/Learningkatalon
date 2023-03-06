@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OverviewBalance0.000.00Income  (Last 30_6116e5</name>
+   <tag></tag>
+   <elementGuidId>cfade885-3056-4bc8-8503-46de2bd6c173</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.h-full.flex-col.justify-center.gap-4.p-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/span/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>11c81545-1bf3-4144-bf51-f3ac59560c54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex h-full flex-col justify-center gap-4 p-6</value>
+      <webElementGuid>facada51-4d48-4cf4-985a-37387cd2e533</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OverviewBalance$0.00$0.00Income  (Last 30 days)$0.00Expenses  (Last 30 days)</value>
+      <webElementGuid>cc9b2ea6-611d-4c7d-8e98-fe1a31c90a14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;h-screen flex w-full px-4 pt-16 w-scr&quot;]/main[@class=&quot;w-7/8 p-8 w-[80vw]&quot;]/div[@class=&quot;flex items-center justify-around mx-8 sm:flex&quot;]/span[@class=&quot;sm:self-start ml-12&quot;]/div[1]/div[@class=&quot;flex rounded-lg border border-gray-200 bg-white shadow-md dark:border-gray-700 dark:bg-gray-800 flex-col&quot;]/div[@class=&quot;flex h-full flex-col justify-center gap-4 p-6&quot;]</value>
+      <webElementGuid>bc28a721-b0cf-4e65-8c34-d22ce6dc5a8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/span/div/div/div</value>
+      <webElementGuid>01871ab2-969f-4bc1-a32d-c89837c28ec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[1]/following::div[4]</value>
+      <webElementGuid>1aaebe80-2264-4ebc-8775-24a258035881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support'])[1]/following::div[4]</value>
+      <webElementGuid>9a0014cb-665a-4443-9b82-f89c7295bd82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div/div</value>
+      <webElementGuid>138d79af-f3aa-45d5-a10e-75f7271f9796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OverviewBalance$0.00$0.00Income  (Last 30 days)$0.00Expenses  (Last 30 days)' or . = 'OverviewBalance$0.00$0.00Income  (Last 30 days)$0.00Expenses  (Last 30 days)')]</value>
+      <webElementGuid>c615660d-1e52-4d1e-b4f4-4942639bfaba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
